@@ -17,19 +17,19 @@
   "maintenance_message": "نحن نقوم بتحديث السيرفرات حالياً، سنعود قريباً.",
   "force_update": false,
   "latest_version": "1.0.0",
-  "update_url": "https://github.com/[USERNAME]/[REPO]/releases/download/v1.0.0/app-release.apk",
+  "update_url": "https://github.com/imadzazou95-bot/tfaraj-config/releases/download/v1.0.0/app-release.apk",
   "features": {
-    "live_tv": false,
-    "movies": false,
-    "series": false,
-    "matches": false
+    "live_tv": true,
+    "movies": true,
+    "series": true,
+    "matches": true
   },
   "theme": {
     "primary": "#6c63ff",
     "dark_mode": true
   },
   "support": {
-    "telegram": "https://t.me/Tfarajtvdis"
+    "telegram": "https://t.me/Tfarajtv_upgrade"
   },
   "activation_codes": [
     "482917", "739104", "156283", "904572", "361849", "217650", "895301", "043728", "678915", "520436",
