@@ -19,7 +19,7 @@
   "latest_version": "1.0.0",
   "update_url": "https://github.com/imadzazou95-bot/tfaraj-config/releases/download/v1.0.0/app-release.apk",
   "features": {
-    "live_tv": true,
+    "live_tv": false,
     "movies": true,
     "series": true,
     "matches": true
