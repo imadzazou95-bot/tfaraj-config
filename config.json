@@ -22,7 +22,7 @@
     "live_tv": false,
     "movies": true,
     "series": true,
-    "matches": true
+    "matches": false
   },
   "theme": {
     "primary": "#6c63ff",
